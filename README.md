@@ -1,5 +1,7 @@
-# infinite-scroll
-Connected to the 
+# FREE HIGH RESOLUTION IMAGES
+Brought to you by -> www.unsplash.com
+Awesome random highresolution images using the Unsplash API. This site showcases the Infinite Scroll JavaScript function and API connection
+abilities.
 
 
 # Developers 
