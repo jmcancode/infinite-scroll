@@ -6,4 +6,4 @@ abilities.
 
 # Developers 
 
-Standard static website. Use your Local Server to view. 
+Standard static website. Demonstraiting the use of third party API's and vanilla JavaScript function "infinite scroll".
